@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# This app created for practics mui-design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setup for MUI
 
-## Available Scripts
+### `Create react app`
 
-In the project directory, you can run:
+npx create-react-app mui-practics
+
+### `Install Mui`
+
+npx create-react-app mui-practics
 
 ### `npm start`
 
